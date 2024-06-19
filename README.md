@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/harsshholic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsshholic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hks0502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hks0502" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh.5ingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harrsh.5ingh" height="30" width="40" /></a>
+<a href="https://instagram.com/coderharsh69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harrsh.5ingh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yayharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yayharsh" height="30" width="40" /></a>
 </p>
 
